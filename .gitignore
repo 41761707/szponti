@@ -1,0 +1,11 @@
+*.env
+.cursor/
+.szponti/
+__pycache__/
+web/frontend/node_modules/
+web/frontend/dist/
+web/frontend/.vite/
+web/frontend/coverage/
+web/frontend/*.tsbuildinfo
+web/frontend/.env.local
+web/frontend/.env.*.local
